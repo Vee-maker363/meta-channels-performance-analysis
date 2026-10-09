@@ -39,7 +39,7 @@ The project also documents its own reasoning as it went, including several place
 
 ## Data Model
 
-![Power BI model view showing DateTable related to five fact tables](images/data-model.png)
+![Power BI model view showing DateTable related to five fact tables](Screenshot 2026-10-09 222512.png)
 
 The model is a star schema: one shared date dimension in the centre and five fact tables around it.
 
