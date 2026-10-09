@@ -112,9 +112,9 @@ RETURN
 
 ## Reproducing This Project
 
-To explore the interactive report, open `Task2.pbix` in Power BI Desktop (free). To see the KPI calculations, open `Reach(2).xlsx` and review the `Pivot_summary` sheet for the PivotTables, month-on-month columns and charts. Open it in Excel and press F9 once so the `GETPIVOTDATA` cells refresh.
+To explore the interactive report, open `social.pbix` in Power BI Desktop (free). To see the KPI calculations, open `Reach(2).xlsx` and review the `Pivot_summary` sheet for the PivotTables, month-on-month columns and charts. Open it in Excel and press F9 once so the `GETPIVOTDATA` cells refresh.
 
-To see the full audit trail, open `Task2_Issues_Log.xlsx`: it documents every data quality issue found and its status, how each KPI was scoped and checked, and a step-by-step process log of how the analysis was built, including the places where an earlier finding was revisited and corrected.
+To see the full audit trail, open `Issues_Log.xlsx`: it documents every data quality issue found and its status, how each KPI was scoped and checked, and a step-by-step process log of how the analysis was built, including the places where an earlier finding was revisited and corrected.
 
 ## Limitations & Notes
 
