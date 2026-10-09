@@ -99,7 +99,7 @@ RETURN
 - April's large percentages are largely a rebound from a depressed March base. Measured against February instead, Facebook reach is only about 11% higher, Instagram reach is about 15% lower, and ad spend is about 39% higher.
 - Audience growth did not follow spend month to month. In February spend rose by more than a third while both Facebook likes and Instagram followers fell, so spend explains reach better than it explains audience growth.
 - Facebook and Instagram finished the period close to parity on new audience (3,089 likes against 3,188 followers), but Instagram overtook Facebook from March and held up better through the dip, with followers down about a third from January to March against about two thirds for Facebook likes.
-- Total ad spend was £4,959, with March the lowest month (£642) and April the highest (£1,920.40).
+- Total ad spend was £4,959, with March the lowest month (£642) and April the highest (£1,920).
 
 (Full detail and the reasoning behind each finding are in the Power BI report and the process documentation.)
 
