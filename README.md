@@ -39,7 +39,7 @@ The project also documents its own reasoning as it went, including several place
 
 ## Data Model
 
-![Power BI model view showing DateTable related to five fact tables]([Screenshot 2026-10-09 222512.png](https://github.com/Vee-maker363/meta-channels-performance-analysis/blob/b43138fe39efd50ab25ebade5756008df62be5b6/Screenshot%202026-10-09%20222512.png))
+![Power BI model view showing DateTable related to five fact tables](https://github.com/Vee-maker363/meta-channels-performance-analysis/blob/b43138fe39efd50ab25ebade5756008df62be5b6/Screenshot%202026-10-09%20222512.png)
 
 The model is a star schema: one shared date dimension in the centre and five fact tables around it.
 
