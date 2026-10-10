@@ -1,5 +1,7 @@
 # Meta Channels Performance Dashboard
 
+<img width="400" height="215" alt="Image" src="https://github.com/user-attachments/assets/01daa3c2-58f1-4c5f-b273-8fbe88f02546" />
+
 A data quality audit and 4-KPI analysis of Facebook and Instagram performance data (January – April 2023), built end-to-end in Excel and Power BI from stacked, messy platform exports to a self-contained, interactive report.
 
 ## Overview
